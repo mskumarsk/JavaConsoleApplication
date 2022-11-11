@@ -6,7 +6,7 @@
       * User
 
 Admin:
-   * New Account
+   * New Account:
          Admin can create new account.
    * Deposit
          Admin can deposit user amount.
