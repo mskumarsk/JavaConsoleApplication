@@ -11,42 +11,42 @@ Admin:
    * New Account:
          Admin can create new account.
          
-   * Deposit
+   * Deposit:
          Admin can deposit user amount.
          
-   * withdraw
+   * withdraw:
          Admin withdraw user amount.
          
-   * Money transfer
+   * Money transfer:
          Admin can transer one account to another account money transfer.
          
-   * Customer account view
+   * Customer account view:
          Admin can view customer details.
          
-   * Account block
+   * Account block:
          Admin can block customer account.
          
-   * Account active
+   * Account active:
          Admin can change block status to active status.
          
-   * Block account details
+   * Block account details:
          Admin can view block account details.
 
 User:
 
-   * Account balance
+   * Account balance:
          User can view account balance.
          
-   * View profile
+   * View profile:
          User can view account details.
          
-   * Money transfer
+   * Money transfer:
          User can transer one account to another account money transfer.
          
-   * View statements
+   * View statements:
          User can view deposit and withdraw statements.
          
-   * Set pin number
+   * Set pin number:
          User can change pin number.
          
          
