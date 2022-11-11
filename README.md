@@ -41,18 +41,23 @@ Admin:
 User:
 
    * Account balance:
+   
          User can view account balance.
          
    * View profile:
+   
          User can view account details.
          
    * Money transfer:
+   
          User can transer one account to another account money transfer.
          
    * View statements:
+   
          User can view deposit and withdraw statements.
          
    * Set pin number:
+   
          User can change pin number.
          
          
