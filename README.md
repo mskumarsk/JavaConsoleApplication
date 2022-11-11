@@ -3,9 +3,11 @@
 1) BANK APPLICATION
    ----------------
       * Admin
+      
       * User
 
 Admin:
+
    * New Account:
          Admin can create new account.
          
@@ -31,6 +33,7 @@ Admin:
          Admin can view block account details.
 
 User:
+
    * Account balance
          User can view account balance.
          
@@ -51,9 +54,11 @@ User:
    2)  BUS TICKET RESERVATION
        ----------------------
              * Admin
+             
              * User
        
    Admin:
+   
       * Booked tickets
            Admin can view booked tickets list.
            
@@ -67,6 +72,7 @@ User:
            Admin can upload contact details.
            
    User:
+   
       * Booking
            User can booking bus tickets.
            
@@ -87,9 +93,11 @@ User:
  3) STUDENT ATTENDANCE SYSTEM
     -------------------------
            * Admin
+           
            * Faculty
   
   Admin:
+  
        * Faculty management 
             Admin can add and remove faculty.
             
@@ -100,6 +108,7 @@ User:
             Admin can view remove students list.
             
   Faculty:
+  
        * Add student
             Faculty can add students.
             
